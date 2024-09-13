@@ -1,0 +1,9 @@
+ID_UBI-UBICA_PRCPAL
+1-En su vivienda o en otra vivienda 
+2-Local, tienda, taller, fábrica, oficina, consultorio 
+3-De puerta en puerta (a domicilio) 
+4-Ambulante;sitio al descubierto 
+5-Vehículo con o sin motor? 
+6-Obra y construcción 
+7-Finca 
+8-Otra

@@ -1,0 +1,7 @@
+¿Quién creó o constituyó el negocio o
+actividad?
+1,Usted solo 
+2,Usted y otro(s)familiares
+3,Usted y otra(s) persona(s) no familiar(es) 
+4,Otras personas 5 Un familiar
+6,Otro ¿Quién?

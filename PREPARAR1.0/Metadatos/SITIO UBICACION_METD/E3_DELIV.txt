@@ -1,0 +1,3 @@
+ID_DELI,TIPO_DELIVERY
+1,En el domicilio de sus clientes 
+2,Visitando locales o negocios de sus clientes
