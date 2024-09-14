@@ -1,0 +1,5 @@
+ID,¿Pagó su salud y/o pensión el mes anterior? 
+1,Si 
+2,No 
+3,Solo salud 
+4,Solo pensión

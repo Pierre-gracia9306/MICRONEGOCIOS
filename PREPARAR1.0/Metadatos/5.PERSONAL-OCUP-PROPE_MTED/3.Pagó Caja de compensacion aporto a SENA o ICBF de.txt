@@ -1,0 +1,3 @@
+ID,¿Pagó Caja de Compensación o aportó al SENA o ICBF?
+1,Sí
+2,No
