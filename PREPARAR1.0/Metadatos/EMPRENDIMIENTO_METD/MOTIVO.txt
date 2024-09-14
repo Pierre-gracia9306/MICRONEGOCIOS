@@ -1,8 +1,0 @@
-ID_M-MOTIVO_FUNDACION
-1-No tiene otra alternativa de ingresos 
-2-Lo identifico como una oportunidad de negocio en el mercado 
-3-Por tradición familiar o lo heredó
-4-Para complementar el ingreso familiar o mejorar el ingreso
-5-Para ejercer su oficio, carrera o profesión 
-6-No tenía la experiencia requerida, la escolaridad o capacitación para un empleo
-7-Otro

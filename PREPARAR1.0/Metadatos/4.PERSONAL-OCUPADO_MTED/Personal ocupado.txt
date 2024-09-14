@@ -1,0 +1,4 @@
+ID,Personal_ocupado
+1,Trabajadores que reciben un pago 
+2,Socios
+3,Trabajadores o familiares sin remuneración

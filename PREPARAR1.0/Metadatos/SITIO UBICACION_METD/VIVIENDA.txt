@@ -1,3 +1,0 @@
-ID_VIVIEN,EN_VIVIEN
-1,Tiene un espacio exclusivo para la actividad
-2,No tiene un espacio exclusivo para la actividad

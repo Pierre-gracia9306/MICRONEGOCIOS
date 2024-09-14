@@ -1,0 +1,3 @@
+ID,Tipo_de_personal 
+1,Contrato a término indefinido 
+2,Temporal

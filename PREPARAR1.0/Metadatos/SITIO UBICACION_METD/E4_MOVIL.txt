@@ -1,3 +1,0 @@
-ID_MOVIL,TIPO_MOVILIDAD
-1,Móvil
-2,Estacionaria

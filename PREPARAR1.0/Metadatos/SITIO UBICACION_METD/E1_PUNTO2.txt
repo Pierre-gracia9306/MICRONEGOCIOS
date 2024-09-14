@@ -1,5 +1,0 @@
-E1_ID,TIPO_RESINTO
-1,Local - tienda 
-2,Taller - fábrica 
-3,Oficina -consultorio 
-4,En kiosco - caseta

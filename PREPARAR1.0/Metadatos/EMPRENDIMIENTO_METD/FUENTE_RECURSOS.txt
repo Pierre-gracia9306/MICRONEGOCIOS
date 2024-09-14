@@ -1,8 +1,0 @@
-ID_FR,FUENTE_RECURS
-1,Ahorros personales
-2,Préstamos familiares 
-3,Préstamos bancarios 
-4,Prestamistas 5 Capital semilla
-6,No requirió financiación 
-7,No sabe 
-8,Otro ¿Cuál?

@@ -1,6 +1,0 @@
-ID_TF,TIEMPO_FUNCIONANDO
-1,Menos de un año 
-2,De 1 a menos de 3 años 
-3,De 3 a menos de 5 años 
-4,De 5 a menos de 10 años 
-5,10 años y más
