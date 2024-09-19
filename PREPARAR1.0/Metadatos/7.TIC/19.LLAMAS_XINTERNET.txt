@@ -1,0 +1,3 @@
+ID-Llamadas telefónicas por internet/VoIP o uso de videoconferencias (Skype, etc) 
+1-Sí
+2-No

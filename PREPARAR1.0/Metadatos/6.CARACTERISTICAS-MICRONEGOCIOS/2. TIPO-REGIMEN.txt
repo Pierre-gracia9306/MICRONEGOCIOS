@@ -1,0 +1,3 @@
+ID,¿A que régimen pertenece? 
+1,Común
+2,Simplificado

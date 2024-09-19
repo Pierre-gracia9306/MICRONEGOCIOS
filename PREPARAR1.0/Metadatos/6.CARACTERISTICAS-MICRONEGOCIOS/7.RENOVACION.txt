@@ -1,0 +1,3 @@
+ID,Obtuvo o renovó ese registro este año?
+1,Sí 
+2,No

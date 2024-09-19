@@ -1,0 +1,3 @@
+ID,Entrega de productos en forma digitalizada (a través de internet) 
+1,Sí 
+2,No

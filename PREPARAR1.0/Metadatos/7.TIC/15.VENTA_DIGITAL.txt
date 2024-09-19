@@ -1,0 +1,3 @@
+ID,Vender productos a clientes por internet mediante una plataforma electrónica (comercio electrónico)
+1,Sí
+2,No

@@ -1,0 +1,3 @@
+ID,¿El negocio o actividad tiene Registro Único Tributario (RUT)? 
+1,Sí 
+2,No

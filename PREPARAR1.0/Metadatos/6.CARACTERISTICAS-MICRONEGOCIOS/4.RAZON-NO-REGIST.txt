@@ -1,0 +1,4 @@
+ID,¿Cuál es la razón principal por la cual no lleva registro? 
+1,No se necesita 
+2,No sabe como llevar registros
+3,No aplica

@@ -1,0 +1,3 @@
+ID-El negocio o actividad tiene presencia en redes sociales (Facebook, twitter, etc.)? 
+1-Sí 
+2-No

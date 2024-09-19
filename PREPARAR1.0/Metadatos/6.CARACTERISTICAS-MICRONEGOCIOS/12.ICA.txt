@@ -1,0 +1,5 @@
+ID-En el último año, ¿realizó las(s) declaración(es) de ICA ? 
+1-Si 
+2-No 
+3-No es responsable de este impuesto 
+9-No Informa

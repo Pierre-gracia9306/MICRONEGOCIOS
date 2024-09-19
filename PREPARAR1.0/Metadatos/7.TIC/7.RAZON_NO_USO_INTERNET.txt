@@ -1,0 +1,7 @@
+ID-¿Cuál es la principal razón por la cual el negocio o actividad no utiliza internet? 
+1-Es muy costoso 
+2-No lo necesita 
+3-El personal no sabe usarlo 
+4-No tiene dispositivo para conectarse (computadores, tabletas, entre otros) 
+5-El servicio no es de buena calidad 
+6-No hay cobertura del servicio en la zona

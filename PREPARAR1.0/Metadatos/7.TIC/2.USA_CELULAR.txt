@@ -1,0 +1,3 @@
+ID,¿Para su negocio o actividad utiliza el teléfono celular? 
+1,Sí 
+2,No

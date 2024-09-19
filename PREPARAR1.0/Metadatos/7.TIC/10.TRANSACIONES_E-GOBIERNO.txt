@@ -1,0 +1,3 @@
+ID,Transacciones con organismos gubernamentales 
+1,Sí 
+2,No

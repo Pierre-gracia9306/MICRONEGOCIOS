@@ -1,0 +1,3 @@
+ID,Búsqueda de información sobre bienes y servicios 
+1,Sí 
+2,No

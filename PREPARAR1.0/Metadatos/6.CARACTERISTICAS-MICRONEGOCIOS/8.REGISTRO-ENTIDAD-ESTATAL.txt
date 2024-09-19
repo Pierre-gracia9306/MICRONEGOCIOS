@@ -1,0 +1,3 @@
+ID-¿Ha registrado el negocio o actividad ante alguna autoridad o entidad(alcaldía, ministerios u otros) 
+1-Sí 
+2-No

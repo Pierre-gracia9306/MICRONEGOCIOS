@@ -1,0 +1,3 @@
+ID,¿Este negocio o actividad tiene acceso o utiliza el servicio de internet? 
+1,Sí 
+2,No

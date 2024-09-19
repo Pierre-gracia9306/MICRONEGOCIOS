@@ -1,0 +1,3 @@
+ID,El negocio o actividad tiene página web o presencia en un sitio web? 
+1,Sí 
+2,No

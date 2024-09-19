@@ -1,0 +1,3 @@
+ID,¿Para su negocio o actividad utiliza alguno(a) de los siguientes dispositivos electrónicos? 
+1,Sí 
+2,No

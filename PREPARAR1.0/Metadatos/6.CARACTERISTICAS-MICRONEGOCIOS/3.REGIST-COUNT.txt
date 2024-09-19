@@ -1,0 +1,6 @@
+ID-¿Cuál es el principal registro que utiliza para llevar sus cuentas?
+1-Balance general o P y G 
+2-Libro de registro diario de operaciones 
+3-Otro tipo de cuentas(libreta, cuaderno, Excel, caja registradora) 
+4-Informes financieros/laborales/tributarios 
+5-No lleva registros

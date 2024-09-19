@@ -1,0 +1,3 @@
+ID, ¿Cómo está registrado?
+1,Como persona natural comerciante 
+2,Como persona jurídica
